@@ -10,7 +10,7 @@
 <hr color="B72D6F">
 
 <h3> <i> <font color="533638" face="Arial Black">	l. My Existence </font> </i> </h3> 
-<p> <font color="F5F5DC" face="Courier New"> Like most of the Pinoys, my name is a creative manifestation of American and Spanish colonial influence. I have <b>
+<p> <font color="533638" face="Courier New"> Like most of the Pinoys, my name is a creative manifestation of American and Spanish colonial influence. I have <b>
 <i> 
  Avegail 
  </i>
