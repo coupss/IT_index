@@ -134,6 +134,7 @@ good music regardless of genre. (My bias is DK)
 <td> <font color="533638" face="Courier New"> Drink more water </font> </td> 
 </tr> 
 </table>
+</body>
 <br>
 <hr color="B72D6F">
 
@@ -142,8 +143,6 @@ I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
 <img src="ll.jpg" width="100" height="100"> 
-
-</body>
 
 
 </html>
