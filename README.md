@@ -9,7 +9,7 @@
 <h5 align="center"> <font color="F5F5DC" face="Courier New"> PERSONAL | BIO | MYSELF | MOI | AKIN </font> </h5>
 <hr color="B72D6F">
 
-<h3> <i> <font color="533638" face="Arial Black">	l. My Existence </i> </h3> </font>
+<h3> <i> <font color="533638" face="Arial Black">	l. My Existence </font> </i> </h3> 
 <p> <font color="F5F5DC" face="Courier New"> Like most of the Pinoys, my name is a creative manifestation of American and Spanish colonial influence. I have <b>
 <i> 
  Avegail 
@@ -22,13 +22,13 @@ with one of them because we have what I would call a "complicated" family situat
 (All hail the feminists!). I currently reside at a predominantly Muslim community, Purok Banisil, Brgy. Tambler. However, I was originally 
 born at Brgy. Labangal. </font> 
 </p>
- <h3> <i> <font color="533638" face="Arial Black"> II. What Am I Up To? </i> </font> </h3>
+ <h3> <i> <font color="533638" face="Arial Black"> II. What Am I Up To? </font> </i> </h3>
  <p> <font color="F5F5DC" face="Courier New"> I am an undergradute student at Mindanao State University (MSU) GenSan pursuing a Bachelor of Arts in English Language Studies (BAELS)degree.
  Aside from obtaining this degree, I don't particularly have anything interesting to share; at least for now. </font> 
 </p>
 <h3>
 <i> <font color="533638" face="Arial Black"> III. My Interests 
-</i> </font>
+</font> </i>
 </h3>
 <p> <font color="F5F5DC" face="Courier New">
 My father's lineage have an undeniable love for music, hence it isn't surprising to hear that I, too, have inherited the same preference.
@@ -51,7 +51,7 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
 
 
 
-<h5> <font color="F5F5DC" face="Courier New"> Here is some of the (clearly diverse) list of artists I regularly listen to. </h5>
+<h5> <font color="F5F5DC" face="Courier New"> Here is some of the (clearly diverse) list of artists I regularly listen to.</h5>
 <h6> No judging please. </h6>
 <ul> <u>
 <li> Black Sabbath </li>
@@ -74,9 +74,7 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
 <li> Jed Baruelo </li>
 <li> The Script </li> 
 <li> Beyonce </li>
-
-
- </ul> </u>
+</u> </ul>
  <br>
  Aside from the aformentioned, I also love, adore, cherish, and worship cats. I think they are the best creatures. The fact that they domesticated themselves and were worshipped as Gods in ancient Egypt confirms my assertion. No one can convince me otherwise. Due to my undying love for cats, I own eight of them and they are the sweetest. They follow me around the house and greet me at the gate when I come home. Sometimes, they hog my personal space and sit on my keyboard and reviewers. This gets annoying but I always immediately forgive them because they are incredibly irresistible.
  <br> <br>
@@ -88,6 +86,7 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  creature can exist here on Earth. They are extremely intelligent and are naturally adaptive to their environment.
  How incredible is that! </font>
  <br> <br>
+</p>
  
  <img src="C:\Users\User\html\cat3.jpg"> 
  <img src="C:\Users\User\html\octopusT_T.jpg"> 
@@ -95,10 +94,6 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  <img src="C:\Users\User\html\dumbo.jpg"> 
 <img src="C:\Users\User\html\neko.jpg">
 <img src="C:\Users\User\html\gsu.jpg">
-
-
-
-</p>
 <h3>
 <i>
  IV. <font color="533638" face="Arial Black"> Recent Obsession </font>
