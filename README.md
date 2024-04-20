@@ -141,7 +141,7 @@ good music regardless of genre. (My bias is DK)
 I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
-
 <img src="ll.jpg"> 
+
 </body>
 </html>
