@@ -23,14 +23,14 @@ with one of them because we have what I would call a "complicated" family situat
 born at Brgy. Labangal. </font> 
 </p>
  <h3> <i> <font color="533638" face="Arial Black"> II. What Am I Up To? </font> </i> </h3>
- <p> <font color="F5F5DC" face="Courier New"> I am an undergradute student at Mindanao State University (MSU) GenSan pursuing a Bachelor of Arts in English Language Studies (BAELS)degree.
+ <p> <font color="533638" face="Courier New"> I am an undergradute student at Mindanao State University (MSU) GenSan pursuing a Bachelor of Arts in English Language Studies (BAELS)degree.
  Aside from obtaining this degree, I don't particularly have anything interesting to share; at least for now. </font> 
 </p>
 <h3>
 <i> <font color="533638" face="Arial Black"> III. My Interests 
 </font> </i>
 </h3>
-<p> <font color="F5F5DC" face="Courier New">
+<p> <font color="533638" face="Courier New">
 My father's lineage have an undeniable love for music, hence it isn't surprising to hear that I, too, have inherited the same preference.
 So,
 the only technology that I am most grateful to ever exist are wired earphones. Yes, controversial.
@@ -51,7 +51,7 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
 
 
 
-<h5> <font color="F5F5DC" face="Courier New"> Here is some of the (clearly diverse) list of artists I regularly listen to.</h5>
+<h5> <font color="533638" face="Courier New"> Here is some of the (clearly diverse) list of artists I regularly listen to.</h5>
 <h6> No judging please. </h6>
 <ul> <u>
 <li> Black Sabbath </li>
@@ -86,19 +86,18 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  creature can exist here on Earth. They are extremely intelligent and are naturally adaptive to their environment.
  How incredible is that! </font>
  <br> <br>
-</p>
  
- <img src="C:\Users\User\html\cat3.jpg"> 
- <img src="C:\Users\User\html\octopusT_T.jpg"> 
-<img src="C:\Users\User\html\cat2.jpg"> 
- <img src="C:\Users\User\html\dumbo.jpg"> 
-<img src="C:\Users\User\html\neko.jpg">
-<img src="C:\Users\User\html\gsu.jpg">
-<h3>
-<i>
- IV. <font color="533638" face="Arial Black"> Recent Obsession </font>
+ <img src="cat3.jpg"> 
+ <img src="octopusT_T.jpg"> 
+<img src="cat2.jpg"> 
+ <img src="dumbo.jpg"> 
+<img src="neko.jpg">
+<img src="gsu.jpg">
+</p>
+
+<h3> <i> IV. <font color="533638" face="Arial Black"> Recent Obsession </font>
 </i> </h3>
-<p> <font color="F5F5DC" face="Courier New">
+<p> <font color="533638" face="Courier New">
 One word:
 <b>
  SEVENTEEN.
@@ -112,27 +111,27 @@ good music regardless of genre. (My bias is DK)
 <h3> <i> <font color="533638" face="Arial Black" V. Goals & Aspiration </i> </font> </h3>
 <table border="3" color="533638">
 <tr> 
-<th> <font color="F5F5DC" face="Courier New"> LONG TERM GOALS </font> </th>
-<th> <font color="F5F5DC" face="Courier New"> SHORT TERM GOALS </font> </th>
+<th> <font color="533638" face="Courier New"> LONG TERM GOALS </font> </th>
+<th> <font color="533638" face="Courier New"> SHORT TERM GOALS </font> </th>
 </tr>
 
 <tr>
-<td> <font color="F5F5DC" face="Courier New"> Obtain a Bachelor's Degree </font> </td>
-<td> <font color="F5F5DC" face="Courier New"> Get good grades </font> </td>
+<td> <font color="533638" face="Courier New"> Obtain a Bachelor's Degree </font> </td>
+<td> <font color="533638" face="Courier New"> Get good grades </font> </td>
 </tr> 
 <tr>
-<td> <font color="F5F5DC" face="Courier New"> Work on my mental well-being </font> </td>
-<td> <font color="F5F5DC" face="Courier New"> Sleep early/combat procrastination </font> </td>
+<td> <font color="533638" face="Courier New"> Work on my mental well-being </font> </td>
+<td> <font color="533638" face="Courier New"> Sleep early/combat procrastination </font> </td>
 </tr>
 <tr>
-<td> <font color="F5F5DC" face="Courier New"> Invest on assets and ensure financial stability </font>
+<td> <font color="533638" face="Courier New"> Invest on assets and ensure financial stability </font>
 </td>
-<td> <font color="F5F5DC" face="Courier New"> Obtain a new skill; preferably in the tech world </font> </td>
+<td> <font color="533638" face="Courier New"> Obtain a new skill; preferably in the tech world </font> </td>
 </tr>
 
 <tr>
-<td> <font color="F5F5DC" face="Courier New"> Invest on healthcare </font> </td>
-<td> <font color="F5F5DC" face="Courier New"> Drink more water </font> </td> 
+<td> <font color="533638" face="Courier New"> Invest on healthcare </font> </td>
+<td> <font color="533638" face="Courier New"> Drink more water </font> </td> 
 </tr> 
 </table>
 <br>
@@ -143,6 +142,6 @@ I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
 
-<img src="C:\Users\User\html\ll.jpg"> 
+<img src="ll.jpg"> 
 </body>
 </html>
