@@ -9,7 +9,7 @@
 <h5 align="center"> <font color="F5F5DC" face="Courier New"> PERSONAL | BIO | MYSELF | MOI | AKIN </font> </h5>
 <hr color="B72D6F">
 
-<h3> <i> <font color="533638" face="Arial Black">	l. My Existence </i> </font> </h3> 
+<h3> <i> <font color="533638" face="Arial Black">	l. My Existence </i> </h3> </font>
 <p> <font color="F5F5DC" face="Courier New"> Like most of the Pinoys, my name is a creative manifestation of American and Spanish colonial influence. I have <b>
 <i> 
  Avegail 
@@ -89,18 +89,12 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  How incredible is that! </font>
  <br> <br>
  
- <img style=width: 350; height=150
-src="C:\Users\User\html\cat3.jpg"> 
- <img style=width: 350; height=150
-src="C:\Users\User\html\octopusT_T.jpg"> 
-<img style=width: 350; height=150
-src="C:\Users\User\html\cat2.jpg"> 
- <img style=width: 200; height=150
-src="C:\Users\User\html\dumbo.jpg"> 
-<img style=width: 200; height=150
-src="C:\Users\User\html\neko.jpg">
- <img style=width: 200; height=150
-src="C:\Users\User\html\gsu.jpg">
+ <img src="C:\Users\User\html\cat3.jpg"> 
+ <img src="C:\Users\User\html\octopusT_T.jpg"> 
+<img src="C:\Users\User\html\cat2.jpg"> 
+ <img src="C:\Users\User\html\dumbo.jpg"> 
+<img src="C:\Users\User\html\neko.jpg">
+<img src="C:\Users\User\html\gsu.jpg">
 
 
 
@@ -154,7 +148,6 @@ I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
 
-<img style=width: 350; height=150
-src="C:\Users\User\html\ll.jpg"> 
+<img src="C:\Users\User\html\ll.jpg"> 
 </body>
 </html>
