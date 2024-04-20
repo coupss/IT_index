@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -8,7 +7,7 @@ LIVING IN THE IT ERA
  </title>
 </head>
 
-<body bgcolor="F1879E">
+<body bgcolor="gray">
 <h1 align="center"> <font color="B72D6F" size="7" face="Arial Black"> <b> Welcome to Gail's World ! </b> </font> </h1>
 <h5 align="center"> <font color="F5F5DC" face="Courier New"> PERSONAL | BIO | MYSELF | MOI | AKIN </font> </h5>
 <hr color="B72D6F">
