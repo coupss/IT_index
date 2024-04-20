@@ -87,12 +87,12 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  How incredible is that! </font>
  <br> <br>
  
- <img src="cat3.jpg"> 
- <img src="octopusT_T.jpg"> 
-<img src="cat2.jpg"> 
- <img src="dumbo.jpg"> 
-<img src="neko.jpg">
-<img src="gsu.jpg">
+ <img src="cat3.jpg" width="100" height="100"> 
+ <img src="octopusT_T.jpg" width="100" height="100"> 
+<img src="cat2.jpg" width="100" height="100"> 
+ <img src="dumbo.jpg" width="100" height="100"> 
+<img src="neko.jpg" width="100" height="100">
+<img src="gsu.jpg" width="100" height="100">
 </p>
 
 <h3> <i> IV. <font color="533638" face="Arial Black"> Recent Obsession </font>
@@ -141,7 +141,7 @@ good music regardless of genre. (My bias is DK)
 I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
-<img src="ll.jpg" width="40" height="40"> 
+<img src="ll.jpg" width="100" height="100"> 
 
 </body>
 
