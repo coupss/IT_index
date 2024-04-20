@@ -142,6 +142,6 @@ I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
 
-<img src="ll.jpg"> 
+<img style=width:350; height=150 src="ll.jpg"> 
 </body>
 </html>
