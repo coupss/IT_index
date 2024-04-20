@@ -88,6 +88,7 @@ I love knowledge and it saddens me to think that I only have a lifetime to learn
  creature can exist here on Earth. They are extremely intelligent and are naturally adaptive to their environment.
  How incredible is that! </font>
  <br> <br>
+ 
  <img style=width: 350; height=150
 src="C:\Users\User\html\cat3.jpg"> 
  <img style=width: 350; height=150
@@ -152,8 +153,8 @@ good music regardless of genre. (My bias is DK)
 I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
+
 <img style=width: 350; height=150
 src="C:\Users\User\html\ll.jpg"> 
-
 </body>
 </html>
