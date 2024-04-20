@@ -108,7 +108,7 @@ aspect of their idol life though as I can attest that they have competent singer
 good music regardless of genre. (My bias is DK) 
  </font> </p>
 <br> 
-<h3> <i> <font color="533638" face="Arial Black" V. Goals & Aspiration </i> </font> </h3>
+<h3> <i> <font color="533638" face="Arial Black"> V. Goals & Aspiration </i> </font> </h3>
 <table border="3" color="533638">
 <tr> 
 <th> <font color="533638" face="Courier New"> LONG TERM GOALS </font> </th>
@@ -142,6 +142,6 @@ I apologize for being cringe t_t </font>
 </h5>
 <br> <br>
 
-<img style=width:350; height=150 src="ll.jpg"> 
+<img src="ll.jpg"> 
 </body>
 </html>
